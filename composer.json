@@ -12,6 +12,7 @@
             "email": "mamadho2019@gmail.com"
         }
     ],
+    "license": ["MIT"],
     "require": {
         "respect/validation": "2.2.3"
     }
