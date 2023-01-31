@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7b3f36b47367848fedd5d8904ea22771",
+    "content-hash": "d4c32e28f845067a041c2ff8c9be7894",
     "packages": [
         {
             "name": "respect/stringifier",
