@@ -10,6 +10,6 @@ class Validation
 
     public function get()
     {
-        
+        echo "get data 2222eeee";
     }
 }
